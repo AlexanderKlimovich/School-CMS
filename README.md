@@ -1,4 +1,4 @@
-# School Console Application
+# School CMS
 This is a School Console Application developed using Spring Boot and various technologies like JDBC, Hibernate, and Spring Data JPA.  
 The application allows you to manage groups, students, and courses in a school database.  
 You can perform operations such as adding/deleting students, finding groups with specific criteria, assigning students to courses, and more.  
